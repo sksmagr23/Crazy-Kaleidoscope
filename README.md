@@ -13,8 +13,10 @@ This project demonstrates a simple web development example utilizing HTML, CSS, 
 - **CSS**: Styling for the webpage is implemented with CSS.
 - **JS**: Functionality for dynamic color changing is implemented using JavaScript.
 
-## Preview:
+## Webpage Preview
 
-![Webpage Preview]
+You can view a live preview of this webpage hosted on GitHub Pages:
+
+[View Webpage](https://sksmagr23.github.io/Crazy-Kaleidoscope/)
 
 
